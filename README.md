@@ -1,2 +1,0 @@
-# glitch-rust
-hahahha
